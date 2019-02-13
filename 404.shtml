@@ -1,0 +1,21 @@
+<html>
+
+<title>404 Not Found</title>
+
+<body bgcolor="black">
+
+    <link href="/styled.css" rel="stylesheet">
+
+<center>
+    
+    <br><br><br><br><br><br><br><br><br><br><br><br><br>
+    
+<font size="13" color="lime">404 Not Found :(</font>
+<font size="5" color="lime"><br>Your Ip : <!--#echo var="REMOTE_ADDR" --></font>
+<font size="5" color="lime"><br>https://fb.com/MR.MAX.Gov</font>
+</center>
+
+</html>
+<!-- 
+                                                                                                                                                                                                                                                                                                                                                                                                                            
+--> 

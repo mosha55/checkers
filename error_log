@@ -1,0 +1,6 @@
+[03-Feb-2019 05:27:15 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/belldiqi/maxcheckers.com/Dashboard.php on line 115
+[03-Feb-2019 05:28:05 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/belldiqi/maxcheckers.com/Dashboard.php on line 115
+[03-Feb-2019 05:28:28 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/belldiqi/maxcheckers.com/Dashboard.php on line 115
+[03-Feb-2019 05:53:27 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/belldiqi/maxcheckers.com/Dashboard.php on line 115
+[03-Feb-2019 05:55:41 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/belldiqi/maxcheckers.com/Dashboard.php on line 115
+[03-Feb-2019 05:56:57 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/belldiqi/maxcheckers.com/Dashboard.php on line 115
